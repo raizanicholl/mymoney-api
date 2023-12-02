@@ -1,0 +1,49 @@
+{
+  "transactions": [
+    {
+      "date": "2023-02-02T00:00:00.000Z",
+      "week_day": "quinta",
+      "description": "compra de mercado",
+      "value": "1500",
+      "category": "compras ",
+      "type": "debit",
+      "id": 1
+    },
+    {
+      "date": "2023-02-03T00:00:00.000Z",
+      "week_day": "sexta",
+      "description": "conta de luz",
+      "value": "550",
+      "category": "contas",
+      "type": "debit",
+      "id": 2
+    },
+    {
+      "date": "2023-02-15T00:00:00.000Z",
+      "week_day": "quarta",
+      "description": "salario de Dev",
+      "value": "15000",
+      "category": "renda",
+      "type": "credit",
+      "id": 9
+    },
+    {
+      "date": "2023-02-03T00:00:00.000Z",
+      "week_day": "sexta",
+      "description": "cartoes de credito",
+      "value": "2500",
+      "category": "contas",
+      "type": "debit",
+      "id": 10
+    },
+    {
+      "date": "2013-02-02T00:00:00.000Z",
+      "week_day": "sábado",
+      "description": "venda de carro",
+      "value": "5000",
+      "category": "venda ",
+      "type": "credit",
+      "id": 11
+    }
+  ]
+}
